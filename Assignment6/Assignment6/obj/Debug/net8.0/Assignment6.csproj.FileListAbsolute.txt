@@ -1,0 +1,15 @@
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\bin\Debug\net8.0\Assignment6.exe
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\bin\Debug\net8.0\Assignment6.deps.json
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\bin\Debug\net8.0\Assignment6.runtimeconfig.json
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\bin\Debug\net8.0\Assignment6.dll
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\bin\Debug\net8.0\Assignment6.pdb
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.AssemblyInfoInputs.cache
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.AssemblyInfo.cs
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.csproj.CoreCompileInputs.cache
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.sourcelink.json
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.dll
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\refint\Assignment6.dll
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.pdb
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\Assignment6.genruntimeconfig.cache
+D:\.Net FullStack\Week4CodingAssesment\Assignment6\Assignment6\obj\Debug\net8.0\ref\Assignment6.dll
