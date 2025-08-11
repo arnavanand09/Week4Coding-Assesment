@@ -1,0 +1,39 @@
+.ecstorebanner img{
+    width: 960px;
+    height:275px;
+    
+}
+
+.productpic img{
+    width: 180px;
+    height: 200px;
+   
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+    margin:20px;
+
+
+}
+.navsection{
+    display: flex;
+    justify-content: center;
+    margin: 2px;
+
+}
+
+.navsection a{
+    padding: 10px;
+}
+
+.ecstorebanner{
+    display: flex;
+    justify-content: center;
+}
+
+.productpic{
+    border: 1px solid;
+    margin: 10px;
+}
