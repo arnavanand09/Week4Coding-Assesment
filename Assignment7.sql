@@ -1,0 +1,10 @@
+create database Assignment7
+
+CREATE TABLE Worker (
+    WORKER_ID INT PRIMARY KEY,
+    F_NAME CHAR(25) NOT NULL,
+    L_NAME CHAR(25),
+    SALARY INT CHECK (SALARY >= 10000 AND SALARY <= 25000),
+    JOIN_DATE DATETIME,
+    DEPT CHAR(25) CHECK (DEPT IN ('HR', 'Sales', 'Accts', 'IT'))
+);
